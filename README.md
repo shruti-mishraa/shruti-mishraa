@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/shruti-mishraa/shruti-mishraa/blob/main/OIP.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Shruti Mishra</h1>
 <h3 align="center">I'm a Fourth-year Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.</h3>
 
