@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruti-mishraa" alt="shruti-mishraa" /></a> </p>
 
-- 🌱 I’m currently learning **Search Engine Optimization**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
